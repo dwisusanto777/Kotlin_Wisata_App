@@ -1,0 +1,2 @@
+rootProject.name = "Course3 Kotlin Wisata Aplikasi"
+include ':app'
